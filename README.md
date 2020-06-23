@@ -29,7 +29,7 @@ Feel free to check every file an its content:
 [contributors-shield]: https://img.shields.io/github/contributors/diego-9407/holbertonschool-zero_day?style=flat-square
 [contributors-url]: https://github.com/diego-9407/holbertonschool-zero_day/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/diego-9407/holbertonschool-zero_day.svg?style=flat-square
-[forks-url]: https://github.com/diego-9407/holbertonschool-higher_level_programming/network/members
+[forks-url]: https://github.com/diego-9407/holbertonschool-zero_day/network/members
 [stars-shield]: https://img.shields.io/github/stars/diego-9407/holbertonschool-zero_day.svg?style=flat-square
 [stars-url]: https://github.com/diego-9407/holbertonschool-zero_day/stargazers
 [issues-shield]: https://img.shields.io/github/issues/diego-9407/holbertonschool-zero_day?style=flat-square
